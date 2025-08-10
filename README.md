@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Arianna Kightlinger
+A website to showcase my skills
 
 
 
